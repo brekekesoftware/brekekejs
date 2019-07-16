@@ -1,0 +1,25 @@
+{
+  "name": "brekekejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "pret": "prettier --ignore-path=.gitignore --loglevel=silent --write \"**/*.{js,json,md}\""
+  },
+  "dependencies": {
+    "url-parse": "1.4.7"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "arrowParens": "avoid"
+  }
+}
