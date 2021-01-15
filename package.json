@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "pret": "prettier --ignore-path=.gitignore --loglevel=silent --write \"**/*.{js,json,md}\""
+    "format": "prettier --ignore-path=.gitignore --loglevel=silent --write \"**/*.{js,json,md}\""
   },
   "dependencies": {
     "url-parse": "1.4.7"
