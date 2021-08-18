@@ -1,12 +1,12 @@
 {
   "name": "brekekejs",
-  "version": "2107.7.0",
+  "version": "2108.18.0",
   "private": true,
   "scripts": {
-    "format": "prettier --ignore-path=.gitignore --loglevel=silent --write \"**/*.{js,json,md}\""
+    "format": "prettier --ignore-path=.gitignore --loglevel=silent --write ."
   },
   "dependencies": {
-    "url-parse": "1.5.1"
+    "url-parse": "1.5.3"
   },
   "devDependencies": {
     "prettier": "2.3.2"
