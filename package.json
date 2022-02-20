@@ -6,10 +6,10 @@
     "format": "prettier --ignore-path=.gitignore --loglevel=silent --write ."
   },
   "dependencies": {
-    "url-parse": "1.5.3"
+    "url-parse": "1.5.9"
   },
   "devDependencies": {
-    "prettier": "2.3.2"
+    "prettier": "2.5.1"
   },
   "prettier": {
     "printWidth": 80,
