@@ -1,6 +1,6 @@
 {
   "name": "brekekejs",
-  "version": "2204.04.0",
+  "version": "2204.4.0",
   "private": true,
   "scripts": {
     "format": "prettier --ignore-path=.gitignore --loglevel=silent --write ."
